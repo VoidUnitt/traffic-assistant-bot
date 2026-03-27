@@ -1,0 +1,32 @@
+# Telegram Bot Framework
+aiogram==3.4.1
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# HTTP Requests
+aiohttp==3.9.1
+httpx==0.27.0
+
+# Database
+asyncpg==0.29.0
+redis==5.0.1
+
+# Geospatial Calculations
+geopy==2.4.1
+haversine==2.8.0
+
+# Data Validation
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+# HTML Parsing (for scraping camera data)
+beautifulsoup4==4.12.2
+lxml==5.1.0
+
+# Utilities
+python-dateutil==2.8.2
+ujson==5.9.0
+
+# Async Support
+asyncio==3.4.3
